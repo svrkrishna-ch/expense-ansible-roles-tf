@@ -1,4 +1,4 @@
-MYSQL_HOST: "mysql-{{ ENVIRONMENT }}-svrk.fun"
+MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.svrk.fun"
 MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp1
 APP_LOCAION: /app
